@@ -1,0 +1,250 @@
+.title {
+
+	
+    text-align: center;
+    position: absolute;
+    left: 174px;
+    background-color: teal;
+    color: white;
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: xx-large;
+    height: 100px;
+    padding-top: 35px;
+    padding-left: 22px;
+    padding-right: 22px;
+    height:100px;
+    font-weight: bold;
+}
+
+a {
+     
+}
+
+
+.menu {
+
+    font-family: arial;
+    position: absolute;
+    top: 1px;
+    right: 174px;
+    font-size: medium; 
+
+}
+
+
+
+
+.background {
+
+    background-color: #F5F5F5;
+    padding: 800px;
+    padding-bottom: 0px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 100px;
+     
+
+}		
+
+.About-Me {
+
+    background-color: white;
+    position: absolute;
+    padding: 50px;
+    font-size: xx-large;
+    text-align: left;
+    left: 150px;
+    top: 150px;
+    padding-right: 850px;
+    padding-bottom: 500px;
+    color: teal;
+    font-weight: bold;
+
+
+}
+
+
+
+
+.Connect {
+   
+
+    background-color: white;
+    position: absolute;
+    font-size: large;
+    right: 116px;
+    float: right;
+    top: 153px;
+    text-align: center;
+    padding: 74px;
+    padding-bottom: 94px;
+    padding-top: 39px;
+    font-weight: bold;
+    color: teal;
+    text-align: center;
+	
+}
+
+
+.stovfl-logo{
+
+    position: absolute;
+    right: 295px;
+    top: 237px;
+    z-index: 1;
+
+
+
+}
+
+.github-logo{
+
+    position: absolute;
+    right: 240px;
+    top: 237px;
+    z-index: 1;
+
+}
+
+.linkedin-logo{
+
+    position: absolute;
+    z-index: 1;
+    right: 180px;
+    top: 237px;
+}
+
+
+.profile-photo{
+    position: absolute;
+    z-index: 1;
+    top: 250px;
+    left: 200px;
+
+}
+
+.paragraph-1 {
+    width: 413px;
+    position: absolute;
+    z-index: 1;
+    left: 411px;
+    top: 247px;
+    line-height: 150%
+
+}
+
+.paragraph-2{
+    width: 600px;
+    position: absolute;
+    z-index: 1;
+    left: 202px;
+    top: 436px;
+    line-height: 150%;
+
+
+}
+
+.top-border{
+
+    background-color: teal;
+    z-index: 2;
+    padding: 4px;
+    position: absolute;
+    bottom: 80px;
+    width: 1592px;
+    margin-left: 39px;
+}
+
+.bottom-border{
+
+    z-index: 2;
+    padding: 32px;
+    position: absolute;
+    bottom: 20px;
+    width: 1536px;
+    margin-left: 39px;
+    background-color: #666666;
+    bottom: 0px;
+    color:#cccccc;
+    text-align: center;
+    font-family: arial;
+}
+
+.border-line{
+
+    background-color:#D3D3D3;
+    padding: 1px;
+    width: 800px;
+    top: 237px;
+    position: absolute;
+    z-index: 3;
+    left: 197px;
+}
+
+.border-line2{
+
+    background-color: #D3D3D3;
+    padding: .5px;
+    width: 206px;
+    top: 214px;
+    position: absolute;
+    z-index: 3;
+    left: 1321px;
+}
+
+.border-line3{
+    background-color: #D3D3D3;
+    padding: 1px;
+    position: absolute;
+    z-index: 3;
+    width: 1598.2px;
+    top: 100px;
+    margin-left: 40px;
+  
+
+
+}
+
+.Contact {
+
+    background-color: white;
+    position: absolute;
+    padding: 50px;
+    font-size: xx-large;
+    text-align: left;
+    left: 150px;
+    top: 150px;
+    padding-right: 850px;
+    padding-bottom: 500px;
+    color: teal;
+    font-weight: bold;
+
+}
+
+
+
+.all-forms {
+    position: absolute;
+    left: 200px;
+    top: 300px;
+    z-index: 2
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
